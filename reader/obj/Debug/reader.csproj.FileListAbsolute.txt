@@ -1,0 +1,6 @@
+c:\users\csukpani\documents\visual studio 2015\Projects\reader\reader\bin\Debug\reader.exe.config
+c:\users\csukpani\documents\visual studio 2015\Projects\reader\reader\bin\Debug\reader.exe
+c:\users\csukpani\documents\visual studio 2015\Projects\reader\reader\bin\Debug\reader.pdb
+c:\users\csukpani\documents\visual studio 2015\Projects\reader\reader\obj\Debug\reader.csprojResolveAssemblyReference.cache
+c:\users\csukpani\documents\visual studio 2015\Projects\reader\reader\obj\Debug\reader.exe
+c:\users\csukpani\documents\visual studio 2015\Projects\reader\reader\obj\Debug\reader.pdb
